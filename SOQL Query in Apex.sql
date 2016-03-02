@@ -5,3 +5,4 @@ Account[] accts = [SELECT Name,Phone FROM Account
 System.debug(accts.size() + ' account(s) returned.');
 // Write all account array info
 System.debug(accts);
+
