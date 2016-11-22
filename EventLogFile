@@ -1,0 +1,1 @@
+/services/data/v37.0/query?q=SELECT+Id+,+EventType+,+LogDate+,+LogFileLength+,+LogFile+FROM+EventLogFile+WHERE+EventType+=+'ReportExport'
